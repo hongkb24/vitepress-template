@@ -10,7 +10,7 @@ import type MarkdownIt from 'markdown-it'
  * @see app-configs https://vitepress.vuejs.org/config/app-configs.html
  */
 export default defineConfig({
-  title: '享做笔记',
+  title: 'app-configs',
   /**
    * 是否显示最后更新时间
    *
@@ -43,7 +43,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'http://www.xiangzuobiji.com/#/'
+        link: '#'
       }
     ],
     nav,
